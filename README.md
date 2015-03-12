@@ -17,10 +17,10 @@ The purpose of `data-in` is to read all the lines from a text file and return th
 # Example:
 If `my-file.txt` contains:
 
-   3 9
-   5 4
-   6 5
-   3 2
+    3 9
+    5 4
+    6 5
+    3 2
 
 then `(data-in "./my-file.txt")` returns:
 
